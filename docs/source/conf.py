@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'cursus-42'
+copyright = '2024, INovomiast2'
+author = 'INovomiast2'
 
 release = '0.1'
-version = '0.1.0'
+version = '1.0.0'
 
 # -- General configuration
 
