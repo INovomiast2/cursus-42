@@ -1,17 +1,20 @@
-Welcome to Lumache's documentation!
+Welcome to 42Cursus by: INovomiast2
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**42Cursus** it's my entire 42Curriculum, the projects I've been forging for arround
+a long time as a Student of **42** Málaga. So feel free to see the documentation of
+every project, there, I give explanation to all my code and even show you little
+tips and tricks.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   Any action taken by the Student (**you**)
+   with the code I put here it's under yourself.
+   This is a sideproject to documentate all my
+   42 experience and show little tricks.
 
 Contents
 --------
