@@ -26,11 +26,13 @@ $(NAME): $(OBJS)
 clean:
 	  @make clean -C $(LIBFT)
 	  @rm -rf $(OBJS)
-	  @rm -rf $(LIBMLX)/build
+	  @find $(LIBMLX)/build -type f ! -name '*.a' -delete
+	  @find $(LIBMLX)/build -type d -empty -delete
 
 fclean: clean
 		@make fclean -C $(LIBFT)
 		@rm -rf $(NAME)
+		@rm -rf $(LIBMLX)/build
 		@printf "\033[32m[FULLY CLEANED SUCCESSFULLY!]\033[0m"
 
 re: clean all
